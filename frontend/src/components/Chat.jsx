@@ -247,7 +247,7 @@ export default function Chat({ contract, onBack }) {
                     </button>
                 </form>
                 <p className="text-center text-xs text-slate-400 mt-3 max-w-4xl mx-auto">
-                    Pro Hackathon Tip: Type something clearly outside the contract scope to trigger the warning!
+                    Professional Tip: Try requesting a completely new feature or a change in tech stack to see how the analysis identifies scope creep.
                 </p>
             </div>
         </div>
